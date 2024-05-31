@@ -2,7 +2,8 @@
 🔭 I’m currently working on:     
    Django application with Bootstrap for Premier League Data     
    Increasing the accuracy of CIFAR10 Neural Network<br>
-🌱 I’m currently learning:<br>     
+   
+🌱 I’m currently learning:   
    Fullstack development, machine learning, AWS
 
 
