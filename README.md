@@ -1,8 +1,12 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>     Django application with Bootstrap for Premier League Data<br>     Increasing the accuracy of CIFAR10 Neural Network<br>🌱 I’m currently learning:<br>     Fullstack development, machine learning, AWS
+🔭 I’m currently working on:     
+   Django application with Bootstrap for Premier League Data     
+   Increasing the accuracy of CIFAR10 Neural Network<br>
+🌱 I’m currently learning:<br>     
+   Fullstack development, machine learning, AWS
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/evangora/) 
 
 # 💻 Tech Stack:
