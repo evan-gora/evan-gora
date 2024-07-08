@@ -3,7 +3,7 @@
 I am a junior Computer Science student at Miami University with a passion for exploring new technologies and learning as much as I can.
 
 🔭 I’m currently working on:     
-   Django application with Bootstrap for Premier League Data     
+   TaskFlow - an iOS task management application   
    Increasing the accuracy of CIFAR10 Neural Network<br>
    
 🌱 I’m currently learning:   
